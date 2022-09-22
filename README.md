@@ -5,13 +5,13 @@
 - As the name suggests, I am from Nice (France). I am living in Germany since 2020 :palm_tree:
 - I have run several marathons, wrote few fictions and non-fictions books and regularly feed my technical blog :books:
 - I enjoy giving conferences and share findings with my peers :mortar_board:
-- I wanted to be a Psychologist. Didn't ended-up so but at least my girlfriend is :grimacing:
+- As a kid I wanted to be a Psychologist. Didn't ended-up so but at least my girlfriend is :grimacing:
 
 ## I am currently working on
 
 - Building and Monitoring ELT pipelines (Airflow)
 - Managing Data Infrastructures on Google Cloud BigQuery (Terraform)
-- Build Stream Ingestors (Python, Docker & Kubernetes)
+- Building Stream Ingestors (Python, Docker & Kubernetes)
 - Leading Workshops and Interviews
 
 ## My biggest challenges at the moment
@@ -22,9 +22,9 @@
 
 ## What I like in the job
 
-- Creativity and flexibility: you get to develop your own projects on your slack-time and integrate them into our productive environment
-- Empowerement and ownership: you get to lead the topics that matters for you
-- Technical & social: being deeply involved in the technics while getting in touch with all the different domains
+- _Creativity_ and _flexibility_: you develop your own projects on your slack-time and integrate them into our productive environment
+- _Empowerement_ and _ownership_: you get to lead the topics that matters for you
+- _Technical_ and _social_: being deeply involved in the technics while getting in touch with all the different domains
 
 ## Books you might love (among so many)
 
