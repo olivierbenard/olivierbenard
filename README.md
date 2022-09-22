@@ -1,4 +1,4 @@
-# Hello, I am Olivier, Data Software Engineer at Breuninger :wave:
+# Hello, I am Olivier, Data Software Engineer :wave:
 
 ## In a few words
 
