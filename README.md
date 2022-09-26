@@ -3,7 +3,7 @@
 ## In a few words
 
 - As the name suggests, I am from Nice, France. I am living in Germany since 2020 :palm_tree:
-- I have run several marathons, wrote few fictions and non-fictions books and regularly feed my technical blog :books:
+- I have run several marathons, wrote few fictions and non-fictions books and regularly publish on my technical blog :books:
 - I enjoy giving conferences and share findings with my peers :mortar_board:
 
 ## I am currently working on
@@ -11,7 +11,8 @@
 - Building and Monitoring ELT pipelines (Airflow)
 - Managing Data Infrastructures on Google Cloud BigQuery (Terraform)
 - Building Stream Ingestors (Python, Docker & Kubernetes)
-- Leading Workshops and Interviews
+- Contributing to Breuninger open-source projects ([github.com/e-breuninger](github.com/e-breuninger))
+- Leading Workshops and Technical Interviews
 
 ## My biggest challenges at the moment
 
