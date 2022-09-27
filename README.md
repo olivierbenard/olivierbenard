@@ -10,7 +10,7 @@
 
 - Building and Monitoring ELT pipelines (Airflow)
 - Managing Data Infrastructures on Google Cloud BigQuery (Terraform)
-- Building Stream Ingestors (Python, Docker & Kubernetes) fetching data from different APIs and external databases (PostgreSQL)
+- Building Stream Ingestors (Python, Docker & Kubernetes) fetching data from different APIs and external db (PostgreSQL)
 - Developing different custom REST APIs to enhance our softwares capabilities (facebook, snapchat, jira, rocketchat, gitlab)
 - Contributing to Breuninger open-source or pushing slack-time projects on [github.com/e-breuninger](github.com/e-breuninger) (Python Libraries, Chrome Extensions, Gitlab Monitoring)
 - Leading Workshops and Technical Interviews
