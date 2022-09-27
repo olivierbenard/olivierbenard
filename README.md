@@ -12,7 +12,7 @@
 - Managing Data Infrastructures on Google Cloud BigQuery (Terraform)
 - Building Stream Ingestors fetching data from different APIs and external db (Python, Docker, Kubernetes & PostgreSQL)
 - Developing different custom REST APIs to enhance our softwares capabilities (facebook, snapchat, jira, rocketchat, gitlab)
-- Contributing to open-source or pushing slack-time projects on [github.com/e-breuninger](github.com/e-breuninger) (Python Libraries, Chrome Extensions, Gitlab Monitoring)
+- Publishing open-source projects on [github.com/e-breuninger](github.com/e-breuninger) (Python Libraries, Chrome Extensions, Gitlab Monitoring)
 - Leading Workshops and Technical Interviews
 
 ## My biggest challenges at the moment
