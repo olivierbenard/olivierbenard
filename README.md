@@ -17,9 +17,10 @@
 
 ## My biggest challenges at the moment
 
-- Getting ride of the technical debt
-- Keeping up with the upcoming technologies
-- Enforcing the code best practices and standardisation principles
+- Improving existing pipelines' reliability (defining standards with PO and stakeholders, stirring legacy, having more testing, data validation and monitoring)
+- Getting ride of the technical debt (moving toward 100% automation, documentation and infrastructure as code coverage)
+- Keeping up with the upcoming technologies (learning new skills, going more in-deept vertically and horizontally)
+- Enforcing the code best practices and standardisation principles (via countless hours of workshops and conferences)
 
 ## What I like in the job
 
