@@ -1,11 +1,5 @@
 # Hello, I am Olivier, Data Software Engineer :wave:
 
-## In a few words
-
-- As the name suggests, I am from Nice, France. I am living in Germany since 2020 :palm_tree:
-- I have run several marathons, wrote few fictions and non-fictions books and regularly publish on my technical blog :books:
-- I enjoy giving conferences and share findings with my peers :mortar_board:
-
 ## I am currently working on
 
 - Building and Monitoring ELT pipelines (Airflow)
@@ -20,13 +14,20 @@
 - Improving existing pipelines' reliability (pushing for more tests, ISO-standardisation, data validation & monitoring)
 - Getting ride of the technical debt (moving toward 100% automation, documentation and infrastructure as code coverage)
 - Keeping up with the upcoming technologies (learning new skills, going more in-deept vertically and horizontally)
-- Enforcing the code best practices and standardisation principles (via countless hours of workshops and conferences)
+- Enforcing the code best practices and standardisation principles (via multitude hours of workshops and conferences)
+- Strengthening the international spirit, actively connecting the teams (via department tours and promoting english usage)
 
 ## What I like in the job
 
 - _Creativity_ and _flexibility_: you develop your own projects on your slack-time and integrate them into our productive environment
 - _Empowerement_ and _ownership_: you get to lead the topics that matters for you
 - _Technical_ and _social_: being deeply involved in the technics while getting in touch with all the different domains
+
+## In a few words
+
+- As the name suggests, I am from Nice, France. I am living in Germany since 2020 :palm_tree:
+- I have run several marathons, wrote few fictions and non-fictions books and regularly publish on my technical blog :books:
+- I enjoy giving conferences and share findings with my peers :mortar_board:
 
 ## Books you might love (among so many)
 
@@ -35,6 +36,7 @@
 - _The Kubernetes Book_, Nigel Poulton, Edition 2022
 - _Google BigQuery: The Definitive Guide_, Lakshmanan & Tigani, O'REILLY
 - _The Workshop Survival Guide: How to design & teach workshops that work every time_, Rob Devin & Fitzpatrick Hunt
+- _The Lessons of History_, Will & Ariel Durant
 
 ### Fiction
 - _Les Fruits de l'Hivers_, Bernard Clavel (Prix Goncourt 1969)
