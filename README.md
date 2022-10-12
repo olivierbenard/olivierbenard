@@ -25,7 +25,7 @@
 
 ## In a few words
 
-- As the name suggests, I am from Nice, France. I am living in Germany since 2020 :palm_tree:
+- As the name suggests, I am from France, Nice. I definitively moved in Germany in 2020 :palm_tree:
 - I have run several marathons, wrote few fictions and non-fictions books and regularly publish on my technical blog :books:
 - I enjoy giving conferences and share findings with my peers :mortar_board:
 
