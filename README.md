@@ -19,7 +19,7 @@
 
 ## What I like in the job
 
-- _Creativity_ and _flexibility_: management is in demand for feedbacks, let you space and slack-times.
+- _Creativity_ and _flexibility_: management is in demand for feedbacks, autonomy, proactivity and slack-times.
 - _Empowerement_ and _ownership_: you can own any topics you like inside self-directed teams.
 - _Technical_ and _social_: being deeply involved in the technics while getting in touch with all the different domains.
 - _Respect_ and _open-mindedness_: the future is global, driven by IT, agility and lean-innovations. Not closed and conservative.
