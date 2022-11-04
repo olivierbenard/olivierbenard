@@ -3,7 +3,7 @@
 ## I am currently working on
 
 - Building and Monitoring ELT pipelines (Airflow)
-- Managing Data Infrastructures on Google Cloud Platform (BigQuery, Cloud Storage, Compute Engine, Cloud Functions, Terraform)
+- Managing Data Infrastructures on Google Cloud Platform (BigQuery, Cloud Storage/Functions, Compute Engine, Terraform)
 - Building Stream Ingestors fetching data from different APIs and external DB (Python, Docker, Kubernetes & PostgreSQL)
 - Developing different custom REST APIs to enhance our softwares capabilities (facebook, snapchat, jira, rocketchat, gitlab)
 - Publishing open-source projects on [github.com/e-breuninger](github.com/e-breuninger) (Python Libraries, Chrome Extensions, Gitlab Monitoring)
@@ -22,7 +22,7 @@
 - _Creativity_ and _flexibility_: management is in demand for feedbacks, let you space and slack-times.
 - _Empowerement_ and _ownership_: you can own any topics you like inside self-directed teams.
 - _Technical_ and _social_: being deeply involved in the technics while getting in touch with all the different domains.
-- _Respect_ and _open-mindedness_: the future is global, driven by IT, agility and lean-innovations. Not conservative, narrowly focused and closed to innovations.
+- _Respect_ and _open-mindedness_: the future is global, driven by IT, agility and lean-innovations. Not conservative and closed to innovations.
 
 ## In a few words
 
