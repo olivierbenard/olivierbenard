@@ -4,7 +4,7 @@
 
 - Building, Orchestrating and Monitoring ELT pipelines (using Airflow, Google Cloud Platform Composer & Logging Services)
 - Managing Infrastructure and Services on GCP (incl. BigQuery, Storage, Cloud Functions, Kubernetes, IAM) with Terraform
-- Ingesting new sources from external databases (uses Python, Docker, Kubernetes & PostgreSQL)
+- Ingesting new sources from external databases (using Python, Docker, Kubernetes & PostgreSQL)
 - Ingesting new sources from REST APIs (facebook, snapchat, jira, rocketchat, gitlab, external providers, in-house)
 - Publishing open-source projects on [github.com/e-breuninger](github.com/e-breuninger) (Python Libraries, Chrome Extensions, Rocketchat Bots)
 - Leading Workshops and Technical Interviews (e.g. BigQuery Introduction, Code Standardisation & Best Practices, DevOps Principles)
