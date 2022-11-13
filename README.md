@@ -7,7 +7,7 @@
 - Ingesting new sources from external databases (using Python, Docker, Kubernetes & PostgreSQL)
 - Ingesting new sources from REST APIs (facebook, snapchat, jira, rocketchat, gitlab, external providers, in-house)
 - Publishing open-source projects on [github.com/e-breuninger](github.com/e-breuninger) (Python Libraries, Chrome Extensions, Rocketchat Bots)
-- Leading Workshops and Technical Interviews (e.g. BigQuery Introduction, Code Standardisation & Best Practices, DevOps Principles)
+- Leading Workshops and Technical Interviews (e.g. BigQuery Introduction, Code Standardisation & Best Practices, Gitlab CI & DevOps)
 
 ## My biggest challenges at the moment
 
