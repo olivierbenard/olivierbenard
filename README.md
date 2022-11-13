@@ -27,7 +27,7 @@
 ## In a few words
 
 - As the name suggests, I am from France (Nice). I definitively moved in Germany in 2020 :palm_tree:
-- I have run several marathons, wrote few fiction and non-fiction books and regularly publish on my technical blog :books:
+- I have run several marathons, wrote few fiction and non-fiction books and regularly publish on my [technical blog](https://olivierbenard.fr/) :books:
 - I enjoy speaking at conferences and sharing findings with my peers :mortar_board:
 
 ## Books you might love (among so many)
