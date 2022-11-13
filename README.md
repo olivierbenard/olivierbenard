@@ -2,12 +2,12 @@
 
 ## I am currently working on
 
-- Building and Monitoring ELT pipelines (Airflow)
-- Managing Data Infrastructures on Google Cloud Platform (BigQuery, Cloud Storage/Functions, Compute Engine, Terraform)
-- Building Stream Ingestors fetching data from different APIs and external DB (Python, Docker, Kubernetes & PostgreSQL)
-- Developing different custom REST APIs to enhance our softwares capabilities (facebook, snapchat, jira, rocketchat, gitlab)
-- Publishing open-source projects on [github.com/e-breuninger](github.com/e-breuninger) (Python Libraries, Chrome Extensions, Gitlab Monitoring)
-- Leading Workshops and Technical Interviews
+- Building, Orchestrating and Monitoring ELT pipelines (using Airflow, GCP Composer & Logging Services)
+- Managing Infrastructure and Services on Google Cloud Platform (incl. BigQuery, Storage, Cloud Functions, Kubernetes, IAM) with Terraform as IaC.
+- Ingesting new sources from external databases (uses Python, Docker, Kubernetes & PostgreSQL)
+- Ingesting new sources from REST APIs (facebook, snapchat, jira, rocketchat, gitlab, external providers, in-house)
+- Publishing open-source projects on [github.com/e-breuninger](github.com/e-breuninger) (Python Libraries, Chrome Extensions, Rocketchat Bots)
+- Leading Workshops and Technical Interviews (e.g. BigQuery Introduction, Code Standardisation & Best Practices, DevOps Principles)
 
 ## My biggest challenges at the moment
 
