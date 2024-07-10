@@ -1,4 +1,4 @@
-# Hello, I am Olivier, Software Engineer :wave:
+# Hello, I am Olivier, Software Engineer :wave_tone1:
 
 I take care of Breuninger’s Google Cloud data platform, build ETL/ELT data pipelines and the cloud infrastructure for them to shape the scalable future of data-driven work at Breuninger. My background is in Software Engineering.
 
