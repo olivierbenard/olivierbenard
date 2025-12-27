@@ -11,14 +11,16 @@ Occasionally, I share practical lessons through talks and workshops at technical
 More on how I think about architecture and decision-making:
 * https://cloudframework.de
 
-## Selected Work
+---
 
-### Infrastructure & Platform Foundations
+### Selected Work
+
+#### Infrastructure & Platform Foundations
 - **Terraform Modules for Cloud Platforms**  
   Reusable, versioned Terraform modules designed to make infrastructure ownership explicit and predictable.  
   https://github.com/olivierbenard/gcp-terraform-modules
 
-### Decision-Driven Cloud Infrastructure
+#### Decision-Driven Cloud Infrastructure
 - **Colocated Infrastructure & Deployment Template**  
   A reference structure showing how to co-locate infrastructure with services using Terraform, Terragrunt, and YAML — optimized for clarity, ownership, and low cognitive load.  
   https://github.com/olivierbenard/infra-colocation-template
