@@ -1,6 +1,6 @@
 # Hello, I am Olivier :wave:
 
-I am a Data Architect with a focus on Cloud/Data Platforms and a Software/Data Engineering background. 
+I am a Data Platform Architect with a focus on Cloud/Data Platforms and a Software/Data Engineering background. 
   
 I lead architectural decisions that shape systems over the long term.  
 My work helps prevent technical choices that quietly turn into long-term cost, ownership or scalability constraints.  
