@@ -31,3 +31,8 @@ More on how I think about architecture and decision-making:
   Demonstrates how analytical workloads evolve from ad-hoc scripts into production-grade data platform pipelines.  
   Focuses on layered modeling (raw → staging → marts), reproducibility, and trade-offs across ingestion boundaries, deduplication strategies, and state management (append-only vs constrained raw layers, hash vs business keys, MERGE vs full refresh).  
   https://github.com/olivierbenard/analytics-batch-pipeline-reference
+
+- **CDC Data Platform Reference (DuckDB + Airflow)**  
+  Explores correctness in event-driven data systems, including append-only ingestion, ordering guarantees, idempotency, and privacy boundaries.  
+  Emphasizes auditability and late-binding transformations in CDC pipelines.  
+  https://github.com/olivierbenard/cdc-data-platform-reference
