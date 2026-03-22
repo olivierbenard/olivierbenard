@@ -24,3 +24,10 @@ More on how I think about architecture and decision-making:
 - **Colocated Infrastructure & Deployment Template**  
   A reference structure showing how to co-locate infrastructure with services using Terraform, Terragrunt, and YAML — optimized for clarity, ownership, and low cognitive load.  
   https://github.com/olivierbenard/infra-colocation-template
+
+#### Data Platform & Analytics Engineering
+
+- **Analytics Batch Pipeline Reference (Python → dbt → Airflow)**  
+  Demonstrates how analytical workloads evolve from ad-hoc scripts into production-grade data platform pipelines.  
+  Focuses on layered modeling (raw → staging → marts), reproducibility, and trade-offs across ingestion boundaries, deduplication strategies, and state management (append-only vs constrained raw layers, hash vs business keys, MERGE vs full refresh).  
+  https://github.com/olivierbenard/analytics-batch-pipeline-reference
