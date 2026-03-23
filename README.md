@@ -9,6 +9,7 @@ My work helps:
 * Restore trust and protect the margin and ROI (e.g. bill shock leading to mid 5-digits monthly cloud spends).
   
 I contribute to internal platforms, infrastructure tooling and data-centric systems by defining defensible actionable roadmaps and being actively involved in the implementation.
+
 Occasionally, I share practical lessons through talks and workshops at technical conferences and industry meetups (primarily in Germany).  
 
 Daily insights on my LinkedIn:
