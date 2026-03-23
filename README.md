@@ -8,7 +8,9 @@ My work helps:
 * recover after the platform has outgrown its original structure and entropy is no longer manageable.
 * restore trust and protect the margin and ROI (e.g. bill shock leading to mid 5-digits monthly cloud spends).
   
-I contribute to internal platforms, infrastructure tooling and data-centric systems by defining defensible actionable roadmaps and being actively involved in the implementation.
+I contribute to internal platforms, infrastructure tooling and data-centric systems by
+* defining defensible actionable roadmaps and
+* being actively involved in the implementation.
 
 Occasionally, I share practical lessons through talks and workshops at technical conferences and industry meetups (primarily in Germany).  
 
