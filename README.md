@@ -6,7 +6,7 @@ I lead architectural decisions with pragmatic cloud-vendor aware discernments th
 My work helps:
 * prevent technical choices that quietly turn into long-term cost, ownership or scalability constraints.
 * recover after the platform has outgrown its original structure and entropy is no longer manageable.
-* Restore trust and protect the margin and ROI (e.g. bill shock leading to mid 5-digits monthly cloud spends).
+* restore trust and protect the margin and ROI (e.g. bill shock leading to mid 5-digits monthly cloud spends).
   
 I contribute to internal platforms, infrastructure tooling and data-centric systems by defining defensible actionable roadmaps and being actively involved in the implementation.
 
