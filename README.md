@@ -1,14 +1,14 @@
 # Hello, I am Olivier :wave:
 
-I am a Data Platform Architect with a focus on Cloud/Data Platforms and a strong hands-on Software/Data Platform Engineering (GCP, AWS, Azure). 
+I am a Data Platform Architect with a focus on Cloud/Data Platforms and a strong hands-on Software/Data Platform Engineering (GCP, AWS and Azure). 
   
-I lead architectural decisions that shape systems over the long term.  
+I lead architectural decisions with pragmatic cloud-vendor aware discernments that shape systems over the long term.  
 My work helps:
 * prevent technical choices that quietly turn into long-term cost, ownership or scalability constraints.
 * recover after the platform has outgrown its original structure and entropy is no longer manageable.
-* Restore and protect the margin and ROI (e.g. bill shock leading to mid 5-digits monthly cloud spends).
+* Restore trust and protect the margin and ROI (e.g. bill shock leading to mid 5-digits monthly cloud spends).
   
-I contribute to internal platforms, infrastructure tooling and data-centric systems via defining defensible actionable roadmaps and being actively involve in the implementation.
+I contribute to internal platforms, infrastructure tooling and data-centric systems by defining defensible actionable roadmaps and being actively involved in the implementation.
 Occasionally, I share practical lessons through talks and workshops at technical conferences and industry meetups (primarily in Germany).  
 
 Daily insights on my LinkedIn:
