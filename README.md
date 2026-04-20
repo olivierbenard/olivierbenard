@@ -34,7 +34,7 @@ More on how I think about architecture and decision-making:
   A reference structure (re-using the aforementioned exposed modules) showing how to co-locate infrastructure with services using Terraform, Terragrunt, and YAML — optimized for clarity, ownership, and low cognitive load.  
   https://github.com/olivierbenard/infra-colocation-template
 
-#### Data Platform & Analytics Engineering
+#### Data Platform & System Design
 
 - **Analytics Batch Pipeline Reference (Python + dbt + Airflow)**  
   Demonstrates how analytical workloads evolve from ad-hoc scripts into production-grade data platform pipelines.  
@@ -45,3 +45,8 @@ More on how I think about architecture and decision-making:
   Explores correctness in event-driven data systems, including append-only ingestion, ordering guarantees, idempotency, and privacy boundaries (raw → staging_pii → staging → marts).  
   Emphasizes auditability and late-binding transformations in CDC pipelines.  
   https://github.com/olivierbenard/cdc-data-platform-reference
+
+- **Postgres Workload Reference**
+  Exploring PostgreSQL as a multi-workload platform (OLTP, time-series, vector, document).
+  Focuses: how access patterns drive indexing strategy, cost and system boundaries.
+  https://github.com/olivierbenard/postgres-workload-lab
