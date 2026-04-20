@@ -47,6 +47,6 @@ More on how I think about architecture and decision-making:
   https://github.com/olivierbenard/cdc-data-platform-reference
 
 - **Postgres Workload Reference**
-  Exploring PostgreSQL as a multi-workload platform (OLTP, time-series, vector, document).
-  Focuses: how access patterns drive indexing strategy, cost and system boundaries.
+  Exploring PostgreSQL as a multi-workload platform (OLTP, time-series, vector, document).  
+  Focuses: how access patterns drive indexing strategy, cost and system boundaries.  
   https://github.com/olivierbenard/postgres-workload-lab
