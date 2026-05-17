@@ -18,6 +18,7 @@ Daily insights on my LinkedIn:
 * https://www.linkedin.com/in/olivierbenard/
   
 More on how I think about architecture and decision-making:
+* https://cloudframework.eu
 * https://cloudframework.de
 
 ---
@@ -45,6 +46,12 @@ More on how I think about architecture and decision-making:
   Explores correctness in event-driven data systems, including append-only ingestion, ordering guarantees, idempotency, and privacy boundaries (raw → staging_pii → staging → marts).  
   Emphasizes auditability and late-binding transformations in CDC pipelines.  
   https://github.com/olivierbenard/cdc-data-platform-reference
+
+- **CSV Ingestion Reference (TypeScript + Node.js)**  
+  A small TypeScript reference project for learning backend/runtime patterns through a familiar data-ingestion use case.  
+  Reads CSV data, enriches records with ingestion metadata, applies deterministic transformations, and writes JSON output through a CLI and Dockerized runtime.  
+  Focuses on TypeScript fundamentals for platform work: typed contracts, runtime configuration, dependency injection, structured logging, testing with Vitest, linting, Docker/Compose execution, and the distinction between build-time and runtime dependencies.  
+  https://github.com/olivierbenard/csv-ingestion-ts
 
 - **Postgres Workload Reference**  
   Exploring PostgreSQL as a multi-workload platform (OLTP, time-series, vector, document).  
