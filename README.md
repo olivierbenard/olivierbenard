@@ -1,41 +1,34 @@
-# Hello, I am Olivier :wave:
+# I am Olivier :wave:
 
-I am a Data Platform Architect with a focus on Cloud/Data Platforms and a strong hands-on Software/Data Platform Engineering (GCP, AWS and Azure). 
-  
-I lead architectural decisions with pragmatic cloud-vendor aware discernments that shape systems over the long term.  
-My work helps:
-* prevent technical choices that quietly turn into long-term cost, ownership or scalability constraints.
-* recover after the platform has outgrown its original structure and entropy is no longer manageable.
-* restore trust and protect the margin and ROI (e.g. bill shock leading to mid 5-digits monthly cloud spends).
-  
-I contribute to internal platforms, infrastructure tooling and data-centric systems by
-* defining defensible actionable roadmaps and
-* being actively involved in the implementation.
+Most software and data platform failures come from hidden constraints, wrong assumptions and unintended trade-offs. We're now seeing AI scaling those risks faster.
 
-Occasionally, I share practical lessons through talks and workshops at technical conferences and industry meetups (primarily in Germany).  
+I help leadership make the right data platform and backend decisions before architecture becomes expensive, margins erode and systems outgrow their original design constraints.
 
-Daily insights on my LinkedIn:
-* https://www.linkedin.com/in/olivierbenard/
+I surface hidden constraints, clarify trade-offs, and define technically sound patterns that engineering teams can execute.
+
+I have 8+ years of experience across startups and high-throughput engineering environments. I currently work as a Foundational Data Platform / Backend Engineer across OLTP/OLAP systems, data flows, cloud infrastructure where reliability, latency, cost, clarity, and ownership heavily matter.
+
+Workshops & technical conferences:  
+https://www.linkedin.com/in/olivierbenard/
   
-More on how I think about architecture and decision-making:
-* https://cloudframework.eu
-* https://cloudframework.de
+More on how I think about architecture and decision-making:  
+https://cloudframework.eu
 
 ---
 
-### Selected Work
-
 #### Infrastructure & Platform Foundations
+
 - **Terraform Modules for Cloud Platforms**  
   Reusable, versioned Terraform modules designed to make infrastructure ownership explicit and predictable.  
   https://github.com/olivierbenard/gcp-terraform-modules
 
 #### Decision-Driven Cloud Infrastructure
+
 - **Colocated Infrastructure & Deployment Template**  
   A reference structure (re-using the aforementioned exposed modules) showing how to co-locate infrastructure with services using Terraform, Terragrunt, and YAML — optimized for clarity, ownership, and low cognitive load.  
   https://github.com/olivierbenard/infra-colocation-template
 
-#### Data Platform & System Design
+#### Data Platform, System Design & Selected Patterns
 
 - **Analytics Batch Pipeline Reference (Python + dbt + Airflow)**  
   Demonstrates how analytical workloads evolve from ad-hoc scripts into production-grade data platform pipelines.  
@@ -48,7 +41,7 @@ More on how I think about architecture and decision-making:
   https://github.com/olivierbenard/cdc-data-platform-reference
 
 - **CSV Ingestion Reference (TypeScript + Node.js)**  
-  A small TypeScript reference project for learning backend/runtime patterns through a familiar data-ingestion use case.  
+  A small TypeScript reference project for backend/runtime patterns through a familiar data-ingestion use case.  
   Reads CSV data, enriches records with ingestion metadata, applies deterministic transformations, and writes JSON output through a CLI and Dockerized runtime.  
   Focuses on TypeScript fundamentals for platform work: typed contracts, runtime configuration, dependency injection, structured logging, testing with Vitest, linting, Docker/Compose execution, and the distinction between build-time and runtime dependencies.  
   https://github.com/olivierbenard/csv-ingestion-ts
