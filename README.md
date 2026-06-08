@@ -6,7 +6,7 @@ I help leadership make the right data platform and backend decisions before arch
 
 I surface hidden constraints, clarify trade-offs, and define technically sound patterns that engineering teams can execute.
 
-I have 8+ years of experience across startups and high-throughput engineering environments. I currently work as a Foundational Data Platform / Backend Engineer across OLTP/OLAP systems, data flows, cloud infrastructure where reliability, latency, cost, clarity, and ownership heavily matter.
+I have 8+ years of experience across startups and high-throughput engineering environments. I currently work as a Foundational Data Platform / Backend Engineer across OLTP/OLAP systems, data flows and cloud infrastructure where reliability, latency, cost, clarity, and ownership heavily matter.
 
 Workshops & technical conferences:  
 https://www.linkedin.com/in/olivierbenard/
