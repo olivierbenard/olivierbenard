@@ -4,7 +4,7 @@ Most software and data platform failures come from hidden constraints, wrong ass
 
 I help leadership make the right data platform and backend decisions before architecture becomes expensive, margins erode, or systems outgrow their original design constraints.
 
-When organizations seek my perspective, I surface hidden constraints, clarify trade-offs, and define technically sound patterns that engineering teams can execute.
+When organizations seek perspective, I surface hidden constraints, clarify trade-offs, and define technically sound patterns that engineering teams can execute.
 
 My work is grounded in 8+ years of experience across startups and high-throughput engineering environments. I currently work as a Foundational Data Platform / Backend Engineer across OLTP/OLAP systems, data flows and cloud infrastructure where reliability, latency, cost, clarity, and ownership matter.
 
