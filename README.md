@@ -2,11 +2,11 @@
 
 Most software and data platform failures come from hidden constraints, wrong assumptions and unintended trade-offs. We're now seeing AI scaling those risks faster.
 
-I help leadership make the right data platform and backend decisions before architecture becomes expensive, margins erode and systems outgrow their original design constraints.
+I help leadership make the right data platform and backend decisions before architecture becomes expensive, margins erode, or systems outgrow their original design constraints.
 
-I surface hidden constraints, clarify trade-offs, and define technically sound patterns that engineering teams can execute.
+When organizations seek my perspective, I surface hidden constraints, clarify trade-offs, and define technically sound patterns that engineering teams can execute.
 
-I have 8+ years of experience across startups and high-throughput engineering environments. I currently work as a Foundational Data Platform / Backend Engineer across OLTP/OLAP systems, data flows and cloud infrastructure where reliability, latency, cost, clarity, and ownership heavily matter.
+My work is grounded in 8+ years of experience across startups and high-throughput engineering environments. I currently work as a Foundational Data Platform / Backend Engineer across OLTP/OLAP systems, data flows and cloud infrastructure where reliability, latency, cost, clarity, and ownership matter.
 
 Workshops & technical conferences:  
 https://www.linkedin.com/in/olivierbenard/
