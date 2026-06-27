@@ -16,6 +16,14 @@ https://cloudframework.eu
 
 ---
 
+#### Engineering Guardrails & Codebase Governance
+
+- **Custom ESLint Rules in TypeScript**  
+  A TypeScript sandbox showing how architectural conventions can be enforced directly in the development workflow through custom ESLint rules.  
+  The project explores ESLint internals, AST-based rule design, local plugin configuration, TypeScript rule typing, and Vitest-based rule validation.  
+  The example focuses on forbidding direct `console.*` usage outside a logging wrapper, illustrating a broader pattern for protecting codebases from bypassed abstractions, hidden operational risk, and inconsistent engineering practices.  
+  https://github.com/olivierbenard/eslint-ts
+
 #### Infrastructure & Platform Foundations
 
 - **Terraform Modules for Cloud Platforms**  
